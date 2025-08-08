@@ -38,21 +38,6 @@ This is a front-end demo. Actual downloads require valid `.mp3` file URLs and ba
 - **Tailwind CSS** (optional) – For utility-first styling (if used)  
 - **Animate.css** (optional) – For smooth transitions
 
----
-
-## 📸 Screenshots (Optional)
-
-> *(Add screenshots here if you want)*  
-> - Home page view  
-> - Input + Download UI  
-> - Mobile view
-
----
-
-## 📁 Folder Structure (Basic)
-
----
-
 ## ⚠️ Disclaimer
 
 This project is created **for educational/demo purposes only**.  
